@@ -16,6 +16,7 @@
 		7A259F4E1CAFC89900A4BE5D /* Recipe+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A259F4C1CAFC89900A4BE5D /* Recipe+CoreDataProperties.swift */; };
 		7A259F4F1CAFC89900A4BE5D /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A259F4D1CAFC89900A4BE5D /* Recipe.swift */; };
 		7A259F511CAFCA5400A4BE5D /* RecipeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A259F501CAFCA5400A4BE5D /* RecipeCell.swift */; };
+		7A259F531CAFDB3600A4BE5D /* CreateRecipeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A259F521CAFDB3600A4BE5D /* CreateRecipeVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		7A259F4C1CAFC89900A4BE5D /* Recipe+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Recipe+CoreDataProperties.swift"; path = "../Recipe+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		7A259F4D1CAFC89900A4BE5D /* Recipe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Recipe.swift; path = ../Recipe.swift; sourceTree = "<group>"; };
 		7A259F501CAFCA5400A4BE5D /* RecipeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecipeCell.swift; sourceTree = "<group>"; };
+		7A259F521CAFDB3600A4BE5D /* CreateRecipeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateRecipeVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				7A259F361CAFBC0700A4BE5D /* ViewController.swift */,
+				7A259F521CAFDB3600A4BE5D /* CreateRecipeVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				7A259F4E1CAFC89900A4BE5D /* Recipe+CoreDataProperties.swift in Sources */,
 				7A259F351CAFBC0700A4BE5D /* AppDelegate.swift in Sources */,
 				7A259F511CAFCA5400A4BE5D /* RecipeCell.swift in Sources */,
+				7A259F531CAFDB3600A4BE5D /* CreateRecipeVC.swift in Sources */,
 				7A259F3D1CAFBC0700A4BE5D /* recipez.xcdatamodeld in Sources */,
 				7A259F4F1CAFC89900A4BE5D /* Recipe.swift in Sources */,
 			);
